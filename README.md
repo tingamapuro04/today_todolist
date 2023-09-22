@@ -79,7 +79,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://jk-list-todo.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
