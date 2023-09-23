@@ -38,7 +38,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** someone can manage thier daily tasks
+**[your_project__name]** Someone can manage their daily tasks
 
 ## 🛠 Built With <a name="built-with">React JavaScript Redux</a>
 
